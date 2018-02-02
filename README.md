@@ -16,6 +16,8 @@ First, the notebook will show how to load and format data to prepare for use in 
 
 Note: This notebook can be downloaded but not run directly without dowloading the GloVe vectors.
 
+For further explanations on background and results, please see: text-feature-representation.pdf
+
 ## Loading the Datasets
 
 First will load the required pakages.
