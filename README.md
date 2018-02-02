@@ -14,9 +14,14 @@ The main recommendation approaches being assessed are:
 
 First, the notebook will show how to load and format data to prepare for use in similarity comparisons. Next, the notebook will show how to represent text features in different ways including tfidf representations and word embeddings. Finally, this notebook will show how to use these features to generate movie similarity rankings for different types of recommenders.
 
+Note: This notebook can be downloaded but not run directly without dowloading the GloVe vectors.
+
 ## Loading the Datasets
 
 First will load the required pakages.
+
+Glove word embeddings must be dowloaded from: https://nlp.stanford.edu/projects/glove/
+And the original dataset can be downloaded from: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 
 ```python
