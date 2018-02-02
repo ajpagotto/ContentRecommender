@@ -21,7 +21,6 @@ Note: This notebook can be downloaded but not run directly without dowloading th
 First will load the required pakages.
 
 Glove word embeddings must be dowloaded from: https://nlp.stanford.edu/projects/glove/
-And the original dataset can be downloaded from: https://www.kaggle.com/rounakbanik/the-movies-dataset
 
 
 ```python
